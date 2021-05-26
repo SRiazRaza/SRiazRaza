@@ -25,21 +25,18 @@ Here are some ideas to get you started:
     <td style="border: 0";>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriazraza&label=Profile%20views&color=0e75b6&style=flat" alt="sriazraza" /> </p>
     <p align="left"> <a href="https://twitter.com/s_riaz_raza" target="blank"><img src="https://img.shields.io/twitter/follow/s_riaz_raza?logo=twitter&style=for-the-badge" alt="s_riaz_raza" /></a> </p>
-    
     <p> - 🌱 I’m currently learning <strong>Machine Learning</strong> </p>
-
-    <p> - 👨‍💻 All of my projects are available at <a href="https://riazraza.me/">riazraza.me<a/> </p>
-
-    <p> - 📝 I regularly write articles on <a href="https://medium.com/@riazraza0">@riazraza0<a/></p>
-
-    <p> - 💬 Ask me about <strong>The things I don't know of</strong> </p>
-
-    <p> - 📫 How to reach me <strong>riazraza0@gmail.com</strong> </p>
-
     
-    </td>
-    </tr>
-    </table>
+<p> - 👨‍💻 All of my projects are available at <a href="https://riazraza.me/">riazraza.me<a/> </p>
+
+<p> - 📝 I regularly write articles on <a href="https://medium.com/@riazraza0">@riazraza0<a/></p>
+
+<p> - 💬 Ask me about <strong>The things I don't know of</strong> </p>
+
+<p> - 📫 How to reach me <strong>riazraza0@gmail.com</strong> </p>
+</td>
+</tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/s_riaz_raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_riaz_raza" height="30" width="40" /></a><a href="https://linkedin.com/in/riaz-raza-a2002a181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riaz-raza-a2002a181/" height="30" width="40" /></a><a href="https://medium.com/@riazraza0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@riazraza0" height="30" width="40" /></a>
