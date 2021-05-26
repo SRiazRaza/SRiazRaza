@@ -15,28 +15,27 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Riaz Raza</h1>
 <h3 align="center">A cognitive geek !!</h3>
+
+
+
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
       <img width="400" src="https://pbs.twimg.com/media/E2V3XUMXIAIBVm6?format=jpg&name=large" />
     </td>
     <td style="border: 0";>
-
-        <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriazraza&label=Profile%20views&color=0e75b6&style=flat" alt="sriazraza" /> </p>
-        <p align="left"> <a href="https://twitter.com/s_riaz_raza" target="blank"><img src="https://img.shields.io/twitter/follow/s_riaz_raza?logo=twitter&style=for-the-badge" alt="s_riaz_raza" /></a> </p>
-
-         - 🌱 I’m currently learning **Machine Learning**
-
-         - 👨‍💻 All of my projects are available at [https://riazraza.me/](https://riazraza.me/)
-
-         - 📝 I regularly write articles on [https://medium.com/@riazraza0](https://medium.com/@riazraza0)
-
-          - 💬 Ask me about **The things I don't know of**
-
-          - 📫 How to reach me **riazraza0@gmail.com**
-     </td>
-  </tr>
-</table>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriazraza&label=Profile%20views&color=0e75b6&style=flat" alt="sriazraza" /> </p>
+    <p align="left"> <a href="https://twitter.com/s_riaz_raza" target="blank"><img src="https://img.shields.io/twitter/follow/s_riaz_raza?logo=twitter&style=for-the-badge" alt="s_riaz_raza" /></a> </p>
+    <p>
+    - 🌱 I’m currently learning **Machine Learning**
+    - 👨‍💻 All of my projects are available at [https://riazraza.me/](https://riazraza.me/)
+    - 📝 I regularly write articles on [https://medium.com/@riazraza0](https://medium.com/@riazraza0)
+    - 💬 Ask me about **The things I don't know of**
+    - 📫 How to reach me **riazraza0@gmail.com**
+    </p>
+    </td>
+    </tr>
+    </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/s_riaz_raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_riaz_raza" height="30" width="40" /></a><a href="https://linkedin.com/in/riaz-raza-a2002a181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riaz-raza-a2002a181/" height="30" width="40" /></a><a href="https://medium.com/@riazraza0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@riazraza0" height="30" width="40" /></a>
