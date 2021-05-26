@@ -26,16 +26,16 @@ Here are some ideas to get you started:
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriazraza&label=Profile%20views&color=0e75b6&style=flat" alt="sriazraza" /> </p>
     <p align="left"> <a href="https://twitter.com/s_riaz_raza" target="blank"><img src="https://img.shields.io/twitter/follow/s_riaz_raza?logo=twitter&style=for-the-badge" alt="s_riaz_raza" /></a> </p>
     
-    - 🌱 I’m currently learning **Machine Learning**
+    <p> - 🌱 I’m currently learning <strong>Machine Learning</strong> </p>
 
-    - 👨‍💻 All of my projects are available at [https://riazraza.me/](https://riazraza.me/)
+    <p> - 👨‍💻 All of my projects are available at <a href="https://riazraza.me/">riazraza.me<a/> </p>
 
-    - 📝 I regularly write articles on [https://medium.com/@riazraza0](https://medium.com/@riazraza0)
+    <p> - 📝 I regularly write articles on <a href="https://medium.com/@riazraza0">@riazraza0<a/></p>
 
-    - 💬 Ask me about **The things I don't know of**
+    <p> - 💬 Ask me about <strong>The things I don't know of</strong> </p>
 
-    - 📫 How to reach me **riazraza0@gmail.com**
-    
+    <p> - 📫 How to reach me <strong>riazraza0@gmail.com</strong> </p>
+
     
     </td>
     </tr>
