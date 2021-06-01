@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Riaz Raza</h1>
+<h1 align="center">Hi, 👋, I'm Riaz Raza</h1>
 <h3 align="center">A cognitive geek !!</h3>
 
 <table border="0" cellspacing="0" cellpadding="0">
