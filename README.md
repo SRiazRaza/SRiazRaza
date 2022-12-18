@@ -23,8 +23,9 @@ Here are some ideas to get you started:
       <img width="400" src="https://pbs.twimg.com/media/E2V3XUMXIAIBVm6?format=jpg&name=large" />
     </td>
     <td style="border: 0";>
-   
-    <p> - 🌱 I’m currently learning <strong>Machine Learning</strong> </p>
+    
+
+<p> - 🌱 I’m currently learning <strong>Machine Learning</strong> </p>
     
 <p> - 👨‍💻 All of my projects are available at: <a href="https://riazraza.me/portfolio">riazraza.me<a/> </p>
 
