@@ -23,8 +23,7 @@ Here are some ideas to get you started:
       <img width="400" src="https://pbs.twimg.com/media/E2V3XUMXIAIBVm6?format=jpg&name=large" />
     </td>
     <td style="border: 0";>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriazraza&label=Profile%20views&color=0e75b6&style=flat" alt="sriazraza" /> </p>
-    <p align="left"> <a href="https://twitter.com/s_riaz_raza" target="blank"><img src="https://img.shields.io/twitter/follow/s_riaz_raza?logo=twitter&style=for-the-badge" alt="s_riaz_raza" /></a> </p>
+   
     <p> - 🌱 I’m currently learning <strong>Machine Learning</strong> </p>
     
 <p> - 👨‍💻 All of my projects are available at: <a href="https://riazraza.me/portfolio">riazraza.me<a/> </p>
