@@ -27,11 +27,11 @@ Here are some ideas to get you started:
     <p align="left"> <a href="https://twitter.com/s_riaz_raza" target="blank"><img src="https://img.shields.io/twitter/follow/s_riaz_raza?logo=twitter&style=for-the-badge" alt="s_riaz_raza" /></a> </p>
     <p> - 🌱 I’m currently learning <strong>Machine Learning</strong> </p>
     
-<p> - 👨‍💻 All of my projects are available at <a href="https://riazraza.me/portfolio">riazraza.me<a/> </p>
+<p> - 👨‍💻 All of my projects are available at: <a href="https://riazraza.me/portfolio">riazraza.me<a/> </p>
 
-<p> - 💬 Ask me about <strong>The things I don't know of 😂</strong> ... No Seriously I am interested in topics related to Autonomous UAV, Industry 4.0 and IIoT</p>
+<p> - 💬 Ask me about: <strong>The things I don't know of 😂</strong> ... No Seriously I am interested in topics related to Autonomous UAV, Industry 4.0 and IIoT</p>
 
-<p> - 📫 How to reach me <a href="mailto:riazraza0@gmail.com">riazraza0@gmail.com<a/></p>
+<p> - 📫 How to reach me: <a href="mailto:riazraza0@gmail.com">riazraza0@gmail.com<a/></p>
 
 
 <h3 align="center">Connect with me:</h3>
