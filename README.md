@@ -29,9 +29,7 @@ Here are some ideas to get you started:
     
 <p> - 👨‍💻 All of my projects are available at <a href="https://riazraza.me/portfolio">riazraza.me<a/> </p>
 
-<p> - 📝 I write articles on <a href="https://medium.com/@riazraza0">@riazraza0<a/></p>
-
-<p> - 💬 Ask me about <strong>The things I don't know of</strong> </p>
+<p> - 💬 Ask me about <strong>The things I don't know of 😂</strong> ... No Seriously I am interested in topics related to Autonomous UAV, Industry 4.0 and IIoT</p>
 
 <p> - 📫 How to reach me <a href="mailto:riazraza0@gmail.com">riazraza0@gmail.com<a/></p>
 
